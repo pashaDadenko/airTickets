@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+ul,
+li {
+	list-style-type: none;
+}
+body {
+	font-family: 'Inconsolata', monospace;
+}
+.wrapper {
+	width: 1000px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+}
